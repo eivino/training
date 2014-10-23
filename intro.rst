@@ -113,7 +113,7 @@ Further Reading
     .. note::
 
        * Stop us and ask questions when you have them!
-       * Tell us if we speak to fast, to slow or not loud enough.
+       * Tell us if we speak too fast, too slow or not loud enough.
        * One of us is always there to help you if you are stuck. Please give us a sign if you are stuck.
        * We'll make some breaks, the first one will be at XX.
        * Where is food, restrooms
